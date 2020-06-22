@@ -1,8 +1,10 @@
 # Starter for deploying [fast.ai](https://www.fast.ai) models on [Render](https://render.com)
 
-This repo can be used as a starting point to deploy [fast.ai](https://github.com/fastai/fastai) models on Render.
+This repo was taken from the fast.ai course and used to create a learning engine to determine if a picture was of freestyle frisbee or ultimate frisbee.
+There were very minimal changes to the repo, but the learning engine is used to determine those small sports subsets.
+This repo is used to deploy [fast.ai](https://github.com/fastai/fastai) models on Render.
 
-The sample app described here is up at https://fastai-v3.onrender.com. Test it out with bear images!
+The sample app was described here https://fastai-v3.onrender.com. Test it out with bear images!
 
 You can test your changes locally by installing Docker and using the following command:
 
